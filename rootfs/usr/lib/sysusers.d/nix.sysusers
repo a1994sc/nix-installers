@@ -1,0 +1,50 @@
+#Type Name      ID      GECOS              Home       Shell
+g     nixbld    30000
+u     nixbld-01 30001  "Nix build user 1"  /var/empty /sbin/nologin
+m     nixbld-01 nixbld
+u     nixbld-02 30002  "Nix build user 2"  /var/empty /sbin/nologin
+m     nixbld-02 nixbld
+u     nixbld-03 30003  "Nix build user 3"  /var/empty /sbin/nologin
+m     nixbld-03 nixbld
+u     nixbld-04 30004  "Nix build user 4"  /var/empty /sbin/nologin
+m     nixbld-04 nixbld
+u     nixbld-05 30005  "Nix build user 5"  /var/empty /sbin/nologin
+m     nixbld-05 nixbld
+u     nixbld-06 30006  "Nix build user 6"  /var/empty /sbin/nologin
+m     nixbld-06 nixbld
+u     nixbld-07 30007  "Nix build user 7"  /var/empty /sbin/nologin
+m     nixbld-07 nixbld
+u     nixbld-08 30008  "Nix build user 8"  /var/empty /sbin/nologin
+m     nixbld-08 nixbld
+u     nixbld-09 30009  "Nix build user 9"  /var/empty /sbin/nologin
+m     nixbld-09 nixbld
+u     nixbld-10 30010  "Nix build user 10" /var/empty /sbin/nologin
+m     nixbld-10 nixbld
+u     nixbld-11 30011  "Nix build user 11" /var/empty /sbin/nologin
+m     nixbld-11 nixbld
+u     nixbld-12 30012  "Nix build user 12" /var/empty /sbin/nologin
+m     nixbld-12 nixbld
+u     nixbld-13 30013  "Nix build user 13" /var/empty /sbin/nologin
+m     nixbld-13 nixbld
+u     nixbld-14 30014  "Nix build user 14" /var/empty /sbin/nologin
+m     nixbld-14 nixbld
+u     nixbld-15 30015  "Nix build user 15" /var/empty /sbin/nologin
+m     nixbld-15 nixbld
+u     nixbld-16 30016  "Nix build user 16" /var/empty /sbin/nologin
+m     nixbld-16 nixbld
+u     nixbld-17 30017  "Nix build user 17" /var/empty /sbin/nologin
+m     nixbld-17 nixbld
+u     nixbld-18 30018  "Nix build user 18" /var/empty /sbin/nologin
+m     nixbld-18 nixbld
+u     nixbld-19 30019  "Nix build user 19" /var/empty /sbin/nologin
+m     nixbld-19 nixbld
+u     nixbld-10 30010  "Nix build user 20" /var/empty /sbin/nologin
+m     nixbld-10 nixbld
+u     nixbld-21 30011  "Nix build user 21" /var/empty /sbin/nologin
+m     nixbld-21 nixbld
+u     nixbld-22 30012  "Nix build user 22" /var/empty /sbin/nologin
+m     nixbld-22 nixbld
+u     nixbld-23 30013  "Nix build user 23" /var/empty /sbin/nologin
+m     nixbld-23 nixbld
+u     nixbld-24 30014  "Nix build user 24" /var/empty /sbin/nologin
+m     nixbld-24 nixbld
